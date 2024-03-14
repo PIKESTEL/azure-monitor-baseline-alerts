@@ -1,4 +1,4 @@
-name: Deploy AMBA
+name: Deploy-AMBA
 
 on:
   workflow_dispatch: {}
