@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "alz-mcaps"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "alz-mcaps-platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "alz-mcaps-platform"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "alz-mcaps-platform"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "alz-mcaps-platform"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "alz-mcaps-landingzones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -52,14 +52,14 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "swedencentral"
         }
       }
     },
     "policyAssignmentParametersNotificationAssets": {
       "value": {
         "ALZMonitorActionGroupEmail": {
-          "value": "action@mail.com"
+          "value": "pieter.kestelyn@microsoft.com"
         },
         "ALZLogicappResourceId": {
           "value": ""
